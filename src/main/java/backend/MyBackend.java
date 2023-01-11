@@ -12,6 +12,7 @@ public class MyBackend {
 
     public static void main(String[] args) {
         try {
+            System.out.println("Back end started n12");
             // Get the port to listen on
             //curl https://localhost:7001 -k
             // Create a ServerSocket to listen on that port.
